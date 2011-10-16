@@ -27,4 +27,14 @@ class api1Actions extends sfActions
   {
     $this->forward('default', 'module');
   }
+  public function executePost(sfWebRequest $r){
+    $site = $r->getParameter("site");
+    $from = $r->getParameter("from");
+    $msg = $r->getParameter("msg");
+    
+    $queue_url = $sqs->create(sfConfig::get('cqc-p2c'));
+//{"FROM":"mamoru@tejimaya.com","PRI":"3","TO":"tejima@tejimaya.com","MSG":"@tejima aaaaaaaaaaaaaaaaaaaaaa"}
+    $sqs->send($queue_url, json_encode(array("FROM"=>"mamoru@tejimaya.com","PRI"=>"3","TO"=>"tejima@tejimaya.com","MSG"=>"@@@tejima HelloWorld")));
+    return $this->renderText("DONE");
+  }
 }
