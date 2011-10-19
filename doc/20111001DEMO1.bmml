@@ -1,0 +1,42 @@
+<mockup version="1.0" skin="sketch" measuredW="649" measuredH="654" mockupW="541" mockupH="645">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="108" y="9" w="541" h="645" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="440" y="136" w="-1" h="-1" measuredW="80" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>20110930MENU%26bm%3B20110930MENU.bmml%26bm%3B20110930MENU.bmml%26bm%3B20110930MENU.bmml</href>
+        <icon>CircledPlusIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22332%2C127%2C412%2C158%22%20href%3D%2220110930MENU.bmml%22%20alt%3D%2220110930MENU%22%20id%3D%222%22/%3E</map>
+        <text>Menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="238" y="347" w="280" h="198" measuredW="227" measuredH="160" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextArea" x="240" y="176" w="276" h="123" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>What%20are%20you%20doing%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="238" y="301" w="278" h="35" measuredW="73" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Share</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="239" y="136" w="-1" h="-1" measuredW="81" measuredH="31" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>20111001DEMO2%26bm%3B20111001DEMO2.bmml%26bm%3B20111001DEMO2.bmml%26bm%3B20111001DEMO2.bmml</href>
+        <icon>HomeMobileIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22131%2C127%2C212%2C158%22%20href%3D%2220111001DEMO2.bmml%22%20alt%3D%2220111001DEMO2%22%20id%3D%226%22/%3E</map>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::PointyButton" x="320" y="135" w="120" h="-1" measuredW="75" measuredH="31" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <icon>PencilIcon%7Csmall</icon>
+        <text>New</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

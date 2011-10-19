@@ -1,0 +1,34 @@
+<mockup version="1.0" skin="sketch" measuredW="803" measuredH="668" mockupW="727" mockupH="655">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="246" y="269" w="381" h="242" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>12</bottomheight>
+        <dragger>false</dragger>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="354" y="341" w="163" h="-1" measuredW="28" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="354" y="384" w="163" h="-1" measuredW="94" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PASSWORD</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="463" y="424" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001MAIN%26bm%3B20111001MAIN.bmml%26bm%3B20111001MAIN.bmml%26bm%3B20111001MAIN.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22387%2C411%2C441%2C438%22%20href%3D%2220111001MAIN.bmml%22%20alt%3D%2220111001MAIN%22%20id%3D%226%22/%3E</map>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Component" x="76" y="13" w="727" h="655" measuredW="727" measuredH="655" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C76%2C113%2C128%22%20href%3D%2220110930SITE_TOP.bmml%22%20alt%3D%2220110930SITE_TOP%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22402%2C89%2C440%2C111%22%20href%3D%2220111001MAIN.bmml%22%20alt%3D%2220111001MAIN%22%20id%3D%224_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22673%2C89%2C708%2C111%22%20href%3D%2220111001LQGIN.bmml%22%20alt%3D%2220111001LQGIN%22%20id%3D%224_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C76%2C113%2C128%22%20href%3D%2220110930SITE_TOP.bmml%22%20alt%3D%2220110930SITE_TOP%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22402%2C89%2C440%2C111%22%20href%3D%2220111001MAIN.bmml%22%20alt%3D%2220111001MAIN%22%20id%3D%224_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22673%2C89%2C708%2C111%22%20href%3D%2220111001LQGIN.bmml%22%20alt%3D%2220111001LQGIN%22%20id%3D%224_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C76%2C113%2C128%22%20href%3D%2220110930SITE_TOP.bmml%22%20alt%3D%2220110930SITE_TOP%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22402%2C89%2C440%2C111%22%20href%3D%2220111001MAIN.bmml%22%20alt%3D%2220111001MAIN%22%20id%3D%224_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22673%2C89%2C708%2C111%22%20href%3D%2220111001LQGIN.bmml%22%20alt%3D%2220111001LQGIN%22%20id%3D%224_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C76%2C113%2C128%22%20href%3D%2220110930SITE_TOP.bmml%22%20alt%3D%2220110930SITE_TOP%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22402%2C89%2C440%2C111%22%20href%3D%2220111001MAIN.bmml%22%20alt%3D%2220111001MAIN%22%20id%3D%224_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22673%2C89%2C708%2C111%22%20href%3D%2220111001LQGIN.bmml%22%20alt%3D%2220111001LQGIN%22%20id%3D%224_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C76%2C113%2C128%22%20href%3D%2220110930SITE_TOP.bmml%22%20alt%3D%2220110930SITE_TOP%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22402%2C89%2C440%2C111%22%20href%3D%2220111001MAIN.bmml%22%20alt%3D%2220111001MAIN%22%20id%3D%224_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22673%2C89%2C708%2C111%22%20href%3D%2220111001LQGIN.bmml%22%20alt%3D%2220111001LQGIN%22%20id%3D%224_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C76%2C113%2C128%22%20href%3D%2220110930SITE_TOP.bmml%22%20alt%3D%2220110930SITE_TOP%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22402%2C89%2C440%2C111%22%20href%3D%2220111001MAIN.bmml%22%20alt%3D%2220111001MAIN%22%20id%3D%224_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22673%2C89%2C708%2C111%22%20href%3D%2220111001LQGIN.bmml%22%20alt%3D%2220111001LQGIN%22%20id%3D%224_1%22/%3E%0A</map>
+        <src>./assets/symbols.bmml#layout</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

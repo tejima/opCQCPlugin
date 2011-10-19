@@ -1,0 +1,196 @@
+<mockup version="1.0" skin="sketch" measuredW="810" measuredH="675" mockupW="727" mockupH="655">
+  <controls>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Component" x="83" y="20" w="727" h="655" measuredW="727" measuredH="655" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2221%2C80%2C114%2C132%22%20href%3D%2220110930SITE_TOP.bmml%22%20alt%3D%2220110930SITE_TOP%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22402%2C89%2C440%2C111%22%20href%3D%2220111001MAIN.bmml%22%20alt%3D%2220111001MAIN%22%20id%3D%224_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22673%2C89%2C708%2C111%22%20href%3D%2220111001LQGIN.bmml%22%20alt%3D%2220111001LQGIN%22%20id%3D%224_1%22/%3E%0A</map>
+        <override controlID="0" x="0" y="0" w="727" h="655"/>
+        <override controlID="1" x="21" y="80" w="93" h="52"/>
+        <override controlID="2" x="23" y="149" w="683" h="5"/>
+        <override controlID="3" x="239" y="600" w="237" h="22"/>
+        <override controlID="4" x="402" y="91" w="306" h="22"/>
+        <override controlID="5" x="21" y="125" w="97" h="21"/>
+        <src>./assets/symbols.bmml#layout</src>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="300" y="207" w="345" h="115" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notifiy%20LEVEL1</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::FieldSet" x="300" y="337" w="345" h="115" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notifiy%20LEVEL2</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::FieldSet" x="300" y="468" w="345" h="136" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notifiy%20LEVEL3</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::IconLabel" x="545" y="222" w="-1" h="-1" measuredW="90" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <icon>CircledPlusIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22462%2C202%2C552%2C226%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2247%22/%3E</map>
+        <text>Add%20Notify</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::IconLabel" x="545" y="354" w="-1" h="-1" measuredW="90" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <icon>CircledPlusIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22462%2C334%2C552%2C358%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2248%22/%3E</map>
+        <text>Add%20Notify</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::IconLabel" x="545" y="483" w="-1" h="-1" measuredW="90" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <icon>CircledPlusIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22462%2C463%2C552%2C487%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2249%22/%3E</map>
+        <text>Add%20Notify</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Icon" x="232" y="246" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ExclamationPointIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="__group__" x="222" y="375" w="68" h="48" measuredW="68" measuredH="48" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties/>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="0" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="0" locked="false" isInGroup="51">
+          <controlProperties>
+            <icon>ExclamationPointIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="1" locked="false" isInGroup="51">
+          <controlProperties>
+            <icon>ExclamationPointIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="52" controlTypeID="__group__" x="212" y="508" w="88" h="48" measuredW="88" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties/>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="40" y="0" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="0" locked="false" isInGroup="52">
+          <controlProperties>
+            <icon>ExclamationPointIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="0" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="1" locked="false" isInGroup="52">
+          <controlProperties>
+            <icon>ExclamationPointIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="2" locked="false" isInGroup="52">
+          <controlProperties>
+            <icon>ExclamationPointIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::IconLabel" x="311" y="246" w="-1" h="-1" measuredW="168" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmailIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Email%20tejima@gmail.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::IconLabel" x="311" y="383" w="-1" h="-1" measuredW="272" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CellPhoneIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>MMS%20mamoru.tejima.0422@softbank.ne.jp</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::IconLabel" x="314" y="513" w="-1" h="-1" measuredW="143" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TelephoneIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Call%20080-4060-0334</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::IconLabel" x="311" y="410" w="-1" h="-1" measuredW="146" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CellPhoneIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>iPhone%20PUSH%20Notify</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Link" x="609" y="247" w="-1" h="-1" measuredW="27" measuredH="22" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22526%2C227%2C553%2C249%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2264%22/%3E</map>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Link" x="609" y="384" w="-1" h="-1" measuredW="27" measuredH="22" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22526%2C364%2C553%2C386%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2265%22/%3E</map>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Link" x="609" y="411" w="-1" h="-1" measuredW="27" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22526%2C391%2C553%2C413%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2266%22/%3E</map>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Link" x="609" y="514" w="-1" h="-1" measuredW="27" measuredH="22" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22526%2C494%2C553%2C516%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2267%22/%3E</map>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::IconLabel" x="315" y="539" w="-1" h="-1" measuredW="247" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>DM%20@tejima%20%28please%20follow@cqc_bot%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Link" x="610" y="540" w="-1" h="-1" measuredW="27" measuredH="22" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22527%2C520%2C554%2C542%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2269%22/%3E</map>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::IconLabel" x="317" y="567" w="-1" h="-1" measuredW="150" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CellPhoneIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>SMS%20080-4060-0334</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Link" x="611" y="568" w="-1" h="-1" measuredW="27" measuredH="22" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22528%2C548%2C555%2C570%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2271%22/%3E</map>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::IconLabel" x="311" y="272" w="-1" h="-1" measuredW="146" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FacebookIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Facebook%20Message</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Link" x="609" y="273" w="-1" h="-1" measuredW="27" measuredH="22" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>20111001NOTIFY_ADD%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml%26bm%3B20111001NOTIFY_ADD.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22526%2C253%2C553%2C275%22%20href%3D%2220111001NOTIFY_ADD.bmml%22%20alt%3D%2220111001NOTIFY_ADD%22%20id%3D%2273%22/%3E</map>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

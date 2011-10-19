@@ -1,0 +1,11 @@
+<mockup version="1.0" skin="sketch" measuredW="567" measuredH="407" mockupW="422" mockupH="229">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="145" y="178" w="422" h="229" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="162" y="188" w="389" h="189" measuredW="365" measuredH="189" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%u3010%u5171%u6709%u7BC4%u56F2%u3011%09%20%u25A1%20%u500B%u4EBA%20%u25A1%20%u793E%u5916%u79D8%20%u25A1%20%u4E00%u822C%u516C%u958B%0A%u3010%u30D5%u30A1%u30A4%u30EB%u540D%u3011%20%u25A1%u6307%u5B9A%u306A%u3057%20%20%u25A1__________%20%u203B1%0A%u3010%u65E5%u4ED8%u3011%20%20%20%20%20%20%20%20%20%20%20%u25A1%u6307%u5B9A%u306A%u3057%20%u25A120%uFF3F/%uFF3F/__%20%20%20%20%u203B2%0A%u3010%u539F%u672C%u4FDD%u7BA1%20%20%20%20%20%20%20%u25A1%20%u4FDD%u7BA1%20%u25A1%20%u8FD4%u5374%20%u25A1%20%u7834%u68C4%0A%u3010%u7279%u6B8A%u6307%u5B9A%u3011%20%20%20%20%u25A1_________%0A%u203B1%u4F8B%uFF1A20101021_001SAMPLE.pdf%0A%u203B2%u6307%u5B9A%u7121%u3057%u306E%u5834%u5408%u306F%u56DE%u53CE%u65E5</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
